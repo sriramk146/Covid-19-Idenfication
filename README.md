@@ -1,1 +1,1 @@
-# Covid-19-Idenfication
+# Covid-19-Identification
